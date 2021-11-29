@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "mvkvmv-cd97d"
+  },
+  "targets": {
+    "mvkvmv-cd97d": {
+      "hosting": {
+        "tr": [
+          "mvkmv01"
+        ]
+      }
+    }
+  }
+}
